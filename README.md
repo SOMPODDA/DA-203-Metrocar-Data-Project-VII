@@ -1,14 +1,14 @@
 # DA-203-Metrocar-Data-Funnel-Analysis
 
-🚗 About Metrocar
-                        ![image](https://github.com/SOMPODDA/DA-203-Metrocar-Data-Project-VII/assets/70188796/2b6e80c8-254e-422d-9155-9bf5f0ff4572)
 
+                        ![image](https://github.com/SOMPODDA/DA-203-Metrocar-Data-Project-VII/assets/70188796/2b6e80c8-254e-422d-9155-9bf5f0ff4572)
+🚗 About Metrocar
 
 Metrocar's business model is based on a platform that connects riders with drivers through a mobile application. Metrocar acts as an intermediary between riders and drivers, providing a user-friendly platform to connect them and facilitate the ride-hailing process.
 
 
 
-                        ![image](https://github.com/SOMPODDA/DA-203-Metrocar-Data-Project-VII/assets/70188796/2a01a7af-b93b-4d3b-a896-a5136aa436a0)
+          ![image](https://github.com/SOMPODDA/DA-203-Metrocar-Data-Project-VII/assets/70188796/2a01a7af-b93b-4d3b-a896-a5136aa436a0)
 
 
 📶 Metrocar’s Funnel
