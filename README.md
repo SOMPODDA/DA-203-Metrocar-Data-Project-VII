@@ -36,4 +36,12 @@ Review: The user is prompted to rate their driver and leave a review of their ri
 
 Similar to other customer funnels, there will be drop-offs at every stage of the funnel, which is why funnel analysis can be helpful in identifying areas for improvement and optimization. For example, Metrocar may analyze the percentage of users who download the app but do not complete the registration process, or the percentage of users who request a ride but cancel before the driver arrives.
 
+Project Logistics:
+
+1. Explore the Metrocar Data with SQL
+2. Developing Metrocar Funnel Metrics
+3. Present the Funnel Results to Stakeholders
+
+
+
 
