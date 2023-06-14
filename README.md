@@ -1,4 +1,5 @@
-# DA-203-Metrocar-Data-Funnel-Analysis
+# DA-203-Metrocar-Data-Funnel-Analysis  ![image](https://github.com/SOMPODDA/DA-203-Metrocar-Data-Project-VII/assets/70188796/e8b72e54-1d90-4268-b166-f41373378093)
+
 
 🚗 About Metrocar
 
