@@ -43,5 +43,10 @@ Project Logistics:
 3. Present the Funnel Results to Stakeholders
 
 
+Learning Outcomes:
 
+1. Conduct funnel analysis to calculate drop-offs in the customer journey using SQL spreadsheets and Tableau.
+2. Answer specific business research questions to identify areas for improvement and optimization and make recommendations to stakeholders.
+3. Perform an analysis using multiple tools: SQL spreadsheets and Tableau.
+4. Interpret and communicate data effectively through written reports and video presentations.
 
