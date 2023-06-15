@@ -43,7 +43,9 @@ Project Logistics:
 2. Developing Metrocar Funnel Metrics
 3. Present the Funnel Results to Stakeholders
 
-
+      ![image](https://github.com/SOMPODDA/DA-203-Metrocar-Data-Project-VII/assets/70188796/354e9776-98c5-48c5-afde-e94c464862d2)
+ 
+ 
 Learning Outcomes:
 
 1. Conduct funnel analysis to calculate drop-offs in the customer journey using SQL spreadsheets and Tableau.
