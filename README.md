@@ -35,6 +35,9 @@ Payment: After the ride, the user is charged automatically through the app, and 
 
 Review: The user is prompted to rate their driver and leave a review of their ride experience.
 
+   ![Business Analyst life](https://github.com/SOMPODDA/DA-203-Metrocar-Data-Project-VII/assets/70188796/aa6c3581-33ba-4f92-bc95-aeae28cc1241)
+
+
 Similar to other customer funnels, there will be drop-offs at every stage of the funnel, which is why funnel analysis can be helpful in identifying areas for improvement and optimization. For example, Metrocar may analyze the percentage of users who download the app but do not complete the registration process, or the percentage of users who request a ride but cancel before the driver arrives.
 
 Project Logistics:
