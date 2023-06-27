@@ -58,3 +58,4 @@ Learning Outcomes:
 5. Setting up a Funnel in Tableau
 6. Interpret and communicate data effectively through written reports and video presentations.
 
+   ![image](https://github.com/SOMPODDA/DA-203-Metrocar-Data-Project-VII/assets/70188796/b785c7ee-0496-470e-89c4-34e31531d638)
