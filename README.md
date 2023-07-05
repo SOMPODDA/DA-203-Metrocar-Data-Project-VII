@@ -47,9 +47,9 @@ Project Logistics:
 3. Present the Funnel Results to Stakeholders
 
 
-   ![image](https://github.com/SOMPODDA/DA-203-Metrocar-Data-Project-VII/assets/70188796/45d06a05-4bdd-4e76-88f4-11ae9571e4ec)
     
- 
+   ![image](https://github.com/SOMPODDA/DA-203-Metrocar-Data-Project-VII/assets/70188796/4e7a7303-9797-40d6-967e-1aaa2b97dcaa)
+
  
 Learning Outcomes:
 
