@@ -46,7 +46,8 @@ Project Logistics:
 2. Developing Metrocar Funnel Metrics
 3. Present the Funnel Results to Stakeholders
 
-      ![image](https://github.com/SOMPODDA/DA-203-Metrocar-Data-Project-VII/assets/70188796/354e9776-98c5-48c5-afde-e94c464862d2)
+   ![image](https://github.com/SOMPODDA/DA-203-Metrocar-Data-Project-VII/assets/70188796/3555ee0b-52c9-4426-b47f-9b44508ff55b)
+    
  
  
 Learning Outcomes:
